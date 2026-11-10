@@ -39,8 +39,11 @@ jobs:
         env:
           GITHUB_PAGES: "true"
 
-      - name: Place the favicon under the project path
-        run: cp dist/client/favicon.svg dist/client/thefuture/favicon.svg
+      - name: Stage assets at the Pages root
+        run: |
+          mkdir -p dist/client/_next
+          cp -a dist/client/thefuture/_next/. dist/client/_next/
+          cp dist/client/favicon.svg dist/client/thefuture/favicon.svg
 
       - name: Disable Jekyll processing
         run: touch dist/client/.nojekyll
