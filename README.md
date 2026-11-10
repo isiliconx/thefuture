@@ -38,3 +38,11 @@ npm run build
 ```
 
 The Sites hosting configuration is in `.openai/hosting.json`. The production bundle is generated under `dist/`. The repository includes the Sites/Vinext build integration and Cloudflare Worker adapter.
+
+## GitHub Pages
+
+The repository deploys to GitHub Pages from the `main` branch through `.github/workflows/deploy-pages.yml`. The workflow builds a static export with the `/thefuture/` project path and publishes `dist/client`. For a local static Pages build, run:
+
+```sh
+GITHUB_PAGES=true npm run build
+```
