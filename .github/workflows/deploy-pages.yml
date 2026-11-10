@@ -39,6 +39,12 @@ jobs:
         env:
           GITHUB_PAGES: "true"
 
+      - name: Prepare project-site assets
+        run: |
+          mkdir -p dist/client/thefuture
+          cp -a dist/client/_next dist/client/thefuture/_next
+          cp dist/client/favicon.svg dist/client/thefuture/favicon.svg
+
       - name: Disable Jekyll processing
         run: touch dist/client/.nojekyll
 
