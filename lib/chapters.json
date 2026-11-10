@@ -1,0 +1,304 @@
+[
+  {
+    "id": "spark",
+    "label": "The first spark",
+    "title": "The first spark.",
+    "date": "PREHISTORY",
+    "narrative": "Long before formal science, our ancestors learned by watching, making, and trying again. A stone edge, a tended fire, and the returning seasons turned experience into knowledge that could be shared.",
+    "milestones": [
+      {
+        "date": "At least 2.6 million years ago",
+        "title": "An edge, made by hand",
+        "description": "Early toolmakers strike stone to produce sharp flakes, transforming natural materials into useful technologies.",
+        "sourceUrl": "https://humanorigins.si.edu/evidence/behavior/stone-tools/early-stone-age-tools"
+      },
+      {
+        "date": "Prehistory",
+        "title": "Learning from fire",
+        "description": "Evidence of ancient hearths reveals fire's growing role in cooking, protection, and social life; its earliest control remains an active research question.",
+        "sourceUrl": "https://humanorigins.si.edu/evidence/behavior/hearths-shelters"
+      },
+      {
+        "date": "Across generations",
+        "title": "Knowledge becomes collective",
+        "description": "Making tools and gathering around hearths create opportunities to learn from one another and pass practical knowledge onward.",
+        "sourceUrl": "https://humanorigins.si.edu/evidence/behavior/hearths-shelters"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smithsonian — Early Stone Age Tools",
+        "url": "https://humanorigins.si.edu/evidence/behavior/stone-tools/early-stone-age-tools"
+      },
+      {
+        "title": "Smithsonian — Hearths & Shelters",
+        "url": "https://humanorigins.si.edu/evidence/behavior/hearths-shelters"
+      }
+    ]
+  },
+  {
+    "id": "measure",
+    "label": "A world measured",
+    "title": "A world measured.",
+    "date": "3000 BCE – 500 CE",
+    "narrative": "Across Mesopotamia, Egypt, China, and the Mediterranean, observation takes written and mathematical form. Clay tablets and papyrus preserve ways to measure land, calculate quantities, and track the heavens beyond a single lifetime.",
+    "milestones": [
+      {
+        "date": "c. 1550 BCE",
+        "title": "Mathematics on papyrus",
+        "description": "Egypt's Rhind Mathematical Papyrus records practical arithmetic and geometry for problems of work and administration.",
+        "sourceUrl": "https://artsandculture.google.com/asset/rhind-mathematical-papyrus/qAGwXnGhBxLKTg?hl=en"
+      },
+      {
+        "date": "1st millennium BCE",
+        "title": "The sky, recorded",
+        "description": "Babylonian astronomical tablets preserve systematic traditions of observing and organizing celestial phenomena.",
+        "sourceUrl": "https://www.britishmuseum.org/collection/object/W_1899-0610-108"
+      },
+      {
+        "date": "263 CE",
+        "title": "Reasoning with calculation",
+        "description": "Liu Hui comments on China's Nine Chapters on the Mathematical Art, explaining methods used in surveying, trade, and engineering.",
+        "sourceUrl": "https://mathshistory.st-andrews.ac.uk/HistTopics/Nine_chapters/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "British Museum — Rhind Mathematical Papyrus",
+        "url": "https://artsandculture.google.com/asset/rhind-mathematical-papyrus/qAGwXnGhBxLKTg?hl=en"
+      },
+      {
+        "title": "University of St Andrews — Nine Chapters",
+        "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/Nine_chapters/"
+      },
+      {
+        "title": "British Museum — Babylonian astronomical tablet",
+        "url": "https://www.britishmuseum.org/collection/object/W_1899-0610-108"
+      }
+    ]
+  },
+  {
+    "id": "exchange",
+    "label": "Knowledge without borders",
+    "title": "Knowledge without borders.",
+    "date": "500 – 1500",
+    "narrative": "Indian mathematics and the scholarship of the Islamic world develop powerful new ways of calculating and investigating nature. Through translation, travel, and criticism, ideas cross languages and become the starting points for new discoveries.",
+    "milestones": [
+      {
+        "date": "628",
+        "title": "Working with zero",
+        "description": "In India, Brahmagupta gives rules for arithmetic involving zero and negative numbers in the Brahmasphutasiddhanta.",
+        "sourceUrl": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+      },
+      {
+        "date": "c. 820–830",
+        "title": "Algebra takes shape",
+        "description": "Al-Khwarizmi's work in Baghdad sets out systematic methods for solving equations; its exact completion date is uncertain.",
+        "sourceUrl": "https://aas.org/posts/news/2020/12/month-astronomical-history-december-2020"
+      },
+      {
+        "date": "11th century",
+        "title": "Light put to the test",
+        "description": "Ibn al-Haytham combines mathematical reasoning with experiments to investigate vision and the behavior of light.",
+        "sourceUrl": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of St Andrews — Brahmagupta",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahmagupta/"
+      },
+      {
+        "title": "University of St Andrews — Ibn al-Haytham",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Al-Haytham/"
+      },
+      {
+        "title": "American Astronomical Society — Al-Khwarizmi’s algebra",
+        "url": "https://aas.org/posts/news/2020/12/month-astronomical-history-december-2020"
+      }
+    ]
+  },
+  {
+    "id": "revolution",
+    "label": "The scientific revolution",
+    "title": "A new perspective.",
+    "date": "1543 – 1700",
+    "narrative": "New instruments and mathematical models challenge inherited pictures of the cosmos. Earth becomes a moving planet, and the same physical laws begin to connect a falling object with the orbit of a world.",
+    "milestones": [
+      {
+        "date": "1543",
+        "title": "Earth in motion",
+        "description": "Copernicus publishes De revolutionibus, presenting a Sun-centered planetary system.",
+        "sourceUrl": "https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/revolutionsinastronomy/copernicusderevolutionibus/"
+      },
+      {
+        "date": "1610",
+        "title": "Moons around another world",
+        "description": "Galileo's telescopic observations reveal moons orbiting Jupiter, challenging the idea that everything circles Earth.",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      },
+      {
+        "date": "1687",
+        "title": "One law for Earth and sky",
+        "description": "Newton's Principia develops laws of motion and universal gravitation that explain planetary movement.",
+        "sourceUrl": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "University of Glasgow — Copernicus: De Revolutionibus",
+        "url": "https://www.gla.ac.uk/myglasgow/archivespecialcollections/digitisedcollections/revolutionsinastronomy/copernicusderevolutionibus/"
+      },
+      {
+        "title": "NASA — Planetary Motion",
+        "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+      }
+    ]
+  },
+  {
+    "id": "forces",
+    "label": "Forces of change",
+    "title": "Forces of change.",
+    "date": "1700 – 1900",
+    "narrative": "Experiments reveal links between electricity and magnetism, opening the way to electric motors and generators. The study of living things also changes scale, as natural selection offers an explanation for how species change over generations.",
+    "milestones": [
+      {
+        "date": "1821",
+        "title": "Electricity becomes motion",
+        "description": "Michael Faraday demonstrates electromagnetic rotation, an early step toward the electric motor.",
+        "sourceUrl": "https://www.rigb.org/explore-science/explore/person/michael-faraday-1791-1867"
+      },
+      {
+        "date": "1831",
+        "title": "Motion becomes electricity",
+        "description": "Faraday discovers electromagnetic induction, establishing the principle behind electric generators.",
+        "sourceUrl": "https://www.rigb.org/explore-science/explore/person/michael-faraday-1791-1867"
+      },
+      {
+        "date": "1859",
+        "title": "Life through deep time",
+        "description": "Darwin publishes On the Origin of Species, developing natural selection after Wallace independently reaches a related explanation.",
+        "sourceUrl": "https://www.darwinproject.ac.uk/about-darwin"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Royal Institution — Michael Faraday",
+        "url": "https://www.rigb.org/explore-science/explore/person/michael-faraday-1791-1867"
+      },
+      {
+        "title": "Darwin Correspondence Project — About Darwin",
+        "url": "https://www.darwinproject.ac.uk/about-darwin"
+      }
+    ]
+  },
+  {
+    "id": "invisible",
+    "label": "Beneath the visible",
+    "title": "Beneath the visible.",
+    "date": "1900 – 1953",
+    "narrative": "Relativity and quantum physics overturn everyday intuitions about time, matter, and light. Inside living cells, X-ray evidence and molecular models reveal the double helix, connecting biological inheritance to physical structure.",
+    "milestones": [
+      {
+        "date": "1905",
+        "title": "Time is no longer absolute",
+        "description": "Einstein's special relativity links measurements of space and time to the motion of the observer.",
+        "sourceUrl": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+      },
+      {
+        "date": "1915",
+        "title": "Gravity becomes geometry",
+        "description": "Einstein's general relativity describes gravity through the curvature of spacetime.",
+        "sourceUrl": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+      },
+      {
+        "date": "1953",
+        "title": "A structure for inheritance",
+        "description": "Watson and Crick propose DNA's double helix, informed by crucial X-ray work by Franklin, Gosling, Wilkins, and colleagues.",
+        "sourceUrl": "https://www.kcl.ac.uk/lsm/about/kings-and-dna"
+      }
+    ],
+    "sources": [
+      {
+        "title": "NASA — Einstein and General Relativity",
+        "url": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+      },
+      {
+        "title": "King's College London — King's and DNA",
+        "url": "https://www.kcl.ac.uk/lsm/about/kings-and-dna"
+      }
+    ]
+  },
+  {
+    "id": "intelligence",
+    "label": "The connected mind",
+    "title": "The connected mind.",
+    "date": "1956 – PRESENT",
+    "narrative": "Computers and global networks change how knowledge is stored, shared, and discovered. Machine learning becomes a scientific instrument in its own right, finding useful patterns while leaving questions of understanding and reliability open.",
+    "milestones": [
+      {
+        "date": "1956",
+        "title": "Intelligence becomes a research field",
+        "description": "The Dartmouth summer project brings researchers together around the newly named field of artificial intelligence.",
+        "sourceUrl": "https://admissions.dartmouth.edu/follow/3d-magazine/dartmouth-and-dawn-ai"
+      },
+      {
+        "date": "1989",
+        "title": "Knowledge finds a web",
+        "description": "At CERN, Tim Berners-Lee invents the World Wide Web to help researchers share information across computers.",
+        "sourceUrl": "https://home.cern/science/computing/the-birth-of-the-web"
+      },
+      {
+        "date": "2021",
+        "title": "AI enters the molecular world",
+        "description": "AlphaFold's methodology and protein-structure database are released, giving researchers a new way to investigate biology.",
+        "sourceUrl": "https://deepmind.google/science/alphafold/"
+      }
+    ],
+    "sources": [
+      {
+        "title": "CERN — The birth of the Web",
+        "url": "https://home.cern/science/computing/the-birth-of-the-web"
+      },
+      {
+        "title": "Google DeepMind — AlphaFold",
+        "url": "https://deepmind.google/science/alphafold/"
+      },
+      {
+        "title": "Dartmouth — The dawn of artificial intelligence",
+        "url": "https://admissions.dartmouth.edu/follow/3d-magazine/dartmouth-and-dawn-ai"
+      }
+    ]
+  },
+  {
+    "id": "horizon",
+    "label": "Beyond the human horizon",
+    "title": "Beyond the human horizon.",
+    "date": "A POSSIBLE FUTURE",
+    "speculative": true,
+    "narrative": "What if our most powerful scientific tools became our most capable collaborators? Superintelligence could transform discovery, from medicine to new forms of energy. Its emergence and consequences remain uncertain; human choices would shape who benefits, and who remains in control.",
+    "milestones": [
+      {
+        "date": "Possible pathway",
+        "title": "A scientific partner",
+        "description": "More capable systems could propose hypotheses, design experiments, and help researchers test new medicines, materials, and energy technologies."
+      },
+      {
+        "date": "An open question",
+        "title": "Intelligence beyond our own",
+        "description": "Superintelligence is a hypothetical threshold, not an established present capability or an inevitable next step."
+      },
+      {
+        "date": "A choice to shape",
+        "title": "Discovery with human purpose",
+        "description": "In this imagined future, meaningful oversight, shared benefits, and the ability to correct or stop systems remain part of scientific progress."
+      }
+    ],
+    "sources": [
+      {
+        "title": "International AI Safety Report 2026 — capabilities, risks, and uncertainty",
+        "url": "https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026"
+      }
+    ]
+  }
+]
